@@ -16,3 +16,4 @@ jobs:
         run: |
            echo "Building app"
            echo "Build Completed"
+           echo "run"
